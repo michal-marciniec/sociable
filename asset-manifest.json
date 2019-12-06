@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sociable/static/css/main.bf9be1fd.chunk.css",
+    "main.css": "/sociable/static/css/main.b0a09a38.chunk.css",
     "main.js": "/sociable/static/js/main.eb86a19b.chunk.js",
     "main.js.map": "/sociable/static/js/main.eb86a19b.chunk.js.map",
     "runtime-main.js": "/sociable/static/js/runtime-main.7b06d53d.js",
@@ -8,15 +8,15 @@
     "static/js/2.2a8b2b18.chunk.js": "/sociable/static/js/2.2a8b2b18.chunk.js",
     "static/js/2.2a8b2b18.chunk.js.map": "/sociable/static/js/2.2a8b2b18.chunk.js.map",
     "index.html": "/sociable/index.html",
-    "precache-manifest.382675c0a26e172279770dd6882f6de8.js": "/sociable/precache-manifest.382675c0a26e172279770dd6882f6de8.js",
+    "precache-manifest.60eb5d9807513247d0d8e0c5b728a0d0.js": "/sociable/precache-manifest.60eb5d9807513247d0d8e0c5b728a0d0.js",
     "service-worker.js": "/sociable/service-worker.js",
-    "static/css/main.bf9be1fd.chunk.css.map": "/sociable/static/css/main.bf9be1fd.chunk.css.map",
+    "static/css/main.b0a09a38.chunk.css.map": "/sociable/static/css/main.b0a09a38.chunk.css.map",
     "static/js/2.2a8b2b18.chunk.js.LICENSE": "/sociable/static/js/2.2a8b2b18.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.7b06d53d.js",
     "static/js/2.2a8b2b18.chunk.js",
-    "static/css/main.bf9be1fd.chunk.css",
+    "static/css/main.b0a09a38.chunk.css",
     "static/js/main.eb86a19b.chunk.js"
   ]
 }
