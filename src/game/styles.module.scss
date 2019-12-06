@@ -1,0 +1,25 @@
+.game {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+
+  .categories {
+    flex: 0;
+    background-color: #222;
+  }
+
+  .textContainer {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1em;
+    padding: 10%;
+    text-align: center;
+    user-select: none;
+  }
+
+  .gameEnded {
+    color: orange;
+  }
+}

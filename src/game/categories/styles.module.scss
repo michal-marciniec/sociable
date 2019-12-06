@@ -1,0 +1,20 @@
+.categories {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  .category {
+    text-transform: capitalize;
+    padding: 10px 20px;
+    border-bottom: 2px solid transparent;
+    cursor: pointer;
+
+    &.active {
+      border-bottom-color: violet;
+    }
+  }
+
+  .category + .category {
+    margin-left: 20px;
+  }
+}
