@@ -1,7 +1,7 @@
-import games from './games';
-import films from './films';
+import jedzenie from './food';
+import pytajniaki from './pytajniaki';
 
 export default {
-  games,
-  films
+  pytajniaki,
+  jedzenie
 };
